@@ -75,3 +75,8 @@ hr{
     color: #aaa;
     opacity: 0.5;
 }
+
+#navbarNav > ul > li > a:hover {
+    color: #b400ec !important;
+    transition: 1s;
+}
