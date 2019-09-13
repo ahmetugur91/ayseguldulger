@@ -11,7 +11,7 @@
 </head>
 <body>
 
-<div class="container-fluid">
+<div class="container">
     <header>
         <div class="container-fluid">
             <div class="row" style="padding-top:20px">
@@ -21,7 +21,7 @@
                     </a>
                 </div>
                 <div class="col-md-9 float-right">
-                    <nav class="navbar navbar-expand-lg navbar-dark float-right mt-4">
+                    <nav class="navbar navbar-expand-lg navbar-dark float-right mt-2">
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon">
                                 <i class="fa fa-navicon"></i>
@@ -53,7 +53,7 @@
     </header>
 </div>
 
-<div class="container-fluid" style="margin-top:20px;margin-bottom:30px">
+<div class="container" style="margin-top:20px;margin-bottom:30px">
     <div class="row">
         <div class="col-md-3">
             <div class="imgprofile box">
