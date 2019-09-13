@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Title</title>
+    <title><?php bloginfo(); ?></title>
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/bootstrap.min.css">
     <script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery-3.4.1.min.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/assets/js/bootstrap.js"></script>
@@ -57,15 +57,15 @@
     <div class="row">
         <div class="col-md-3">
             <div class="imgprofile box">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/profile.jpg"/>
-                <div class="name">
-                    Ayşegül Dülger
-                </div>
-                <div class="description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                </div>
+                <?php
+                if ( is_active_sidebar( 'sidebar-1' ) ) {
+                    ?>
+                    <div class="widget-column footer-widget-1">
+                        <?php dynamic_sidebar( 'sidebar-1' ); ?>
+                    </div>
+                    <?php
+                }
+                ?>
             </div>
         </div>
         <div class="col-md-9">

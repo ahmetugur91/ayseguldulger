@@ -12,13 +12,13 @@
 
 ?>
 
-<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+<div class="mt-5" id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<?php
 	if ( is_sticky() && is_home() ) :
 		echo twentyseventeen_get_svg( array( 'icon' => 'thumb-tack' ) );
 	endif;
 	?>
-	<header class="entry-header">
+	<div class="entry-header">
 		<?php
 		if ( 'post' === get_post_type() ) {
 			echo '<div class="entry-meta">';
@@ -26,7 +26,7 @@
 				twentyseventeen_posted_on();
 			} else {
 				echo twentyseventeen_time_link();
-				twentyseventeen_edit_link();
+
 			};
 			echo '</div><!-- .entry-meta -->';
 		};
@@ -39,7 +39,7 @@
 			the_title( '<h2 class="entry-title"><a href="' . esc_url( get_permalink() ) . '" rel="bookmark">', '</a></h2>' );
 		}
 		?>
-	</header><!-- .entry-header -->
+	</div><!-- .entry-header -->
 
 	<?php if ( '' !== get_the_post_thumbnail() && ! is_single() ) : ?>
 		<div class="post-thumbnail">
@@ -51,29 +51,19 @@
 
 	<div class="entry-content">
 		<?php
-		/* translators: %s: Name of current post */
-		the_content(
-			sprintf(
-				__( 'Continue reading<span class="screen-reader-text"> "%s"</span>', 'twentyseventeen' ),
-				get_the_title()
-			)
-		);
 
-		wp_link_pages(
-			array(
-				'before'      => '<div class="page-links">' . __( 'Pages:', 'twentyseventeen' ),
-				'after'       => '</div>',
-				'link_before' => '<span class="page-number">',
-				'link_after'  => '</span>',
-			)
-		);
+        if ( is_single() ) {
+            the_content();
+        } else {
+            the_excerpt();
+        }
+
+
 		?>
 	</div><!-- .entry-content -->
 
-	<?php
-	if ( is_single() ) {
-		twentyseventeen_entry_footer();
-	}
-	?>
 
-</article><!-- #post-<?php the_ID(); ?> -->
+
+</div>
+
+<hr>

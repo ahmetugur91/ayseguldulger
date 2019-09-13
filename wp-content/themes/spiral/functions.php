@@ -1,4 +1,12 @@
 <?php
+
+//require_once "class-wp-bootstrap-comment-walker.php";
+
+function custom_theme_setup() {
+    add_theme_support( 'html5', array( 'comment-list' ) );
+}
+add_action( 'after_setup_theme', 'custom_theme_setup' );
+
 /**
  * Twenty Seventeen functions and definitions
  *

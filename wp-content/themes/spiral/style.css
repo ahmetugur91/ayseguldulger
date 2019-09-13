@@ -88,3 +88,111 @@ hr{
 .wp-block-separator:not(.is-style-wide):not(.is-style-dots){
 	max-width: 100%;
 }
+
+.imgprofile .textwidget{
+	color:white;
+}
+
+.entry-meta{
+	color:white;
+}
+.entry-date{
+	color:#B8A516 !important;
+}
+
+.entry-title a{
+	color:#B8A516 !important;
+	text-decoration: none;
+}
+
+.link-more a{
+	color:#B8A516 !important;
+	text-decoration: none;
+}
+
+div.entry-content{
+	color:white;
+}
+
+.screen-reader-text{
+	color: #B8A516;
+}
+
+.post-navigation{
+	margin-top:40px;
+}
+
+.nav-subtitle{
+	display: none;
+}
+.nav-title-icon-wrapper:before,.nav-title-icon-wrapper:after{
+
+}
+.icon-arrow-left,.icon-arrow-right{
+	display: none;
+}
+
+.comments-area{
+	color:white;
+}
+
+
+
+#respond {
+	background: rgba(184, 165, 22, 0.17);
+	padding:0 10px 0 10px;
+}
+
+/* Highlight active form field */
+
+#respond input[type=text],#respond input[type=email],#respond input[type=url], textarea {
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	-ms-transition: all 0.30s ease-in-out;
+	-o-transition: all 0.30s ease-in-out;
+	outline: none;
+	padding: 3px 0px 3px 3px;
+	margin: 5px 1px 3px 0px;
+	border: 1px solid #DDDDDD;
+	display: block;
+	width: 100%;
+}
+
+
+#respond input[type=text]:focus,
+input[type=email]:focus,
+input[type=url]:focus,
+textarea:focus {
+	box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+	margin: 5px 1px 3px 0px;
+	border: 2px solid rgba(81, 203, 238, 1);
+}
+
+.reply{
+
+}
+
+.comment-list a{
+	color: #B8A516;
+}
+
+#comments .media-body {
+	background: rgba(184, 165, 22, 0.17);
+	padding:0 10px 0 10px;
+}
+
+#comments a{
+	color: #B8A516;
+}
+
+#comments .comment-reply-link{
+	color:yellow;
+}
+
+div.comment-metadata.flex-center > ul{
+	float:right;
+}
+
+#commentform {
+	padding-bottom: 20px;
+}

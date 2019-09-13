@@ -1,206 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68c39b8b-2462-4099-b901-c60bf67bffbc" name="Default Changelist" comment="init">
+    <list default="true" id="68c39b8b-2462-4099-b901-c60bf67bffbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/spiral/class-wp-bootstrap-comment-walker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/spiral/images/_logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/404.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/archive.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/archive.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/ScrollToPlugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/ScrollToPlugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/TweenMax.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/TweenMax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/analytics-event-adapter.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/analytics-event-adapter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/backgroundCommon.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/backgroundCommon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/bolt-components.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/bolt-components.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/bolt-custom-elements.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/bolt-custom-elements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/bolt-main-prod-old.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/bolt-main-prod-old.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/bolt-main-r.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/bolt-main-r.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/bolt-main-r_002.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/bolt-main-r_002.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/bundle_002.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/bundle_002.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/color.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/color.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/comboBoxInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/comboBoxInput.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/components.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/components.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/componentsCore.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/componentsCore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/coreUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/coreUtils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/coreUtils_002.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/coreUtils_002.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/dataRefs.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/dataRefs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/dialogs.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/dialogs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/displayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/displayer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/frame-listener.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/frame-listener.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/galleriesCommon.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/galleriesCommon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/imageClientApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/imageClientApi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/imageZoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/imageZoom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/963338e7b175400c9cb6e3323777589d.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/963338e7b175400c9cb6e3323777589d.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/all-widgets.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/all-widgets.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/fedops-logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/fedops-logger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/firebase-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/firebase-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/firebase-auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/firebase-auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/firebase-database.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/firebase-database.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/fontFace.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/fontFace.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/i18next.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/i18next.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/languages.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/languages.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/polyfill.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/polyfill.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/react-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/react-dom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/index_data/react.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/customize-controls.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/customize-controls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/customize-preview.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/customize-preview.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/global.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/html5.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/html5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/jquery.scrollTo.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/jquery.scrollTo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/navigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/skip-link-focus-fix.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/js/skip-link-focus-fix.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/linkBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/linkBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/lodash.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/lodash.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/main-r.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/main-r.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/matrixGallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/matrixGallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/messageView.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/messageView.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/mobileLayoutUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/mobileLayoutUtils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/pm-rpc.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/pm-rpc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/polyfill.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/polyfill.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/react-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/react-dom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/react.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/santa-animations.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/santa-animations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/santa-components-layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/santa-components-layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/santa-components.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/santa-components.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/shim.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/shim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/skin-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/skin-utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/skinExports.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/skinExports.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/skins.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/skins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/slideShowGallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/slideShowGallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/ScrollToPlugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/ScrollToPlugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/TweenMax.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/TweenMax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/analytics-event-adapter.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/analytics-event-adapter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/backgroundCommon.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/backgroundCommon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/bolt-components.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/bolt-components.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/bolt-custom-elements.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/bolt-custom-elements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/bolt-main-prod-old.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/bolt-main-prod-old.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/bolt-main-r.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/bolt-main-r.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/bolt-main-r_002.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/bolt-main-r_002.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/bundle_002.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/bundle_002.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/color.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/color.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/comboBoxInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/comboBoxInput.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/components.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/components.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/componentsCore.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/componentsCore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/coreUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/coreUtils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/coreUtils_002.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/coreUtils_002.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/dataRefs.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/dataRefs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/dialogs.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/dialogs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/displayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/displayer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/frame-listener.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/frame-listener.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/galleriesCommon.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/galleriesCommon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/imageClientApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/imageClientApi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/imageZoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/imageZoom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/963338e7b175400c9cb6e3323777589d.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/963338e7b175400c9cb6e3323777589d.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/all-widgets.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/all-widgets.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/fedops-logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/fedops-logger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/firebase-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/firebase-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/firebase-auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/firebase-auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/firebase-database.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/firebase-database.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/fontFace.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/fontFace.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/i18next.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/i18next.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/languages.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/languages.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/polyfill.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/polyfill.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/react-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/react-dom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/index_data/react.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/linkBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/linkBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/lodash.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/lodash.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/main-r.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/main-r.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/matrixGallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/matrixGallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/messageView.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/messageView.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/mobileLayoutUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/mobileLayoutUtils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/pm-rpc.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/pm-rpc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/polyfill.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/polyfill.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/react-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/react-dom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/react.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/react.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/santa-animations.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/santa-animations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/santa-components-layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/santa-components-layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/santa-components.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/santa-components.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/shim.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/shim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/skin-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/skin-utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/skinExports.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/skinExports.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/skins.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/skins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/slideShowGallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/slideShowGallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/textArea.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/textArea.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/textCommon.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/textCommon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/thirdPartyAnalytics.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/thirdPartyAnalytics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/tpaComponents.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/tpaComponents.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/viewerComponentService.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/viewerComponentService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/warmupUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/warmupUtils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/warmupUtils_002.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/warmupUtils_002.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/wix-dom-sanitizer.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/wix-dom-sanitizer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/wixFreemiumBanner.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/wixFreemiumBanner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/wixappsClassics.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/wixappsClassics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/wixappsCore.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/wixappsCore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/wixappsLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/wixappsLayout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/zepto.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/spiritual-medium_dosyalar/zepto.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/textArea.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/textArea.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/textCommon.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/textCommon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/thirdPartyAnalytics.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/thirdPartyAnalytics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/tpaComponents.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/tpaComponents.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/viewerComponentService.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/viewerComponentService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/warmupUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/warmupUtils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/warmupUtils_002.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/warmupUtils_002.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/wix-dom-sanitizer.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/wix-dom-sanitizer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/wixFreemiumBanner.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/wixFreemiumBanner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/wixappsClassics.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/wixappsClassics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/wixappsCore.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/wixappsCore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/wixappsLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/wixappsLayout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/assets/zepto.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/assets/zepto.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/comments.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/comments.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/front-page.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/inc/back-compat.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/inc/back-compat.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/inc/color-patterns.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/inc/color-patterns.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/inc/custom-header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/inc/custom-header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/inc/customizer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/inc/customizer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/inc/icon-functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/inc/icon-functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/inc/template-functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/inc/template-functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/images/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/inc/template-tags.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/inc/template-tags.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/search.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/searchform.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/searchform.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/sidebar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/single.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/single.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/footer/footer-widgets.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/footer/footer-widgets.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/footer/site-info.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/footer/site-info.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/header/header-image.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/header/header-image.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/header/site-branding.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/header/site-branding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/navigation/navigation-top.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/navigation/navigation-top.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/page/content-front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/page/content-front-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/page/content-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/page/content-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-audio.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-audio.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-excerpt.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-excerpt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-gallery.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-image.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-image.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-none.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-none.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-video.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-video.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -214,8 +30,123 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="712">
+              <caret line="63" column="57" selection-start-line="63" selection-start-column="57" selection-end-line="63" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/sidebar.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#6#425#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="51" column="38" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="38" />
+              <folding>
+                <element signature="e#6#494#0#PHP" expanded="true" />
+                <element signature="e#536#555#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="44" />
+              <folding>
+                <element signature="e#6#216#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/comments.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#6#345#0#PHP" expanded="true" />
+                <element signature="n#style#0;n#ol#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/class-wp-bootstrap-comment-walker.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-494">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/comment-template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="2284" column="6" lean-forward="true" selection-start-line="2284" selection-start-column="6" selection-end-line="2284" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="786">
+              <caret line="196" column="24" selection-start-line="196" selection-start-column="24" selection-end-line="196" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -227,8 +158,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&lt;sty</find>
-      <find>&lt;scri</find>
       <find>f250e5d729e347e29625d31e4c472ab8.jpg</find>
       <find>navbarNav</find>
       <find>.imgprofile div.description</find>
@@ -243,13 +172,29 @@
       <find>logo</find>
       <find>profile</find>
       <find>png</find>
+      <find>human</find>
+      <find>sideb</find>
+      <find>side</find>
+      <find>content</find>
+      <find>nav</find>
+      <find>side_ba</find>
+      <find>nav-previous</find>
+      <find>Yazı dolaşımı</find>
+      <find>posted_on</find>
+      <find>twentyseventeen_posted_on</find>
+      <find>twentyseventeen_get_svg</find>
+      <find>the_posts_pagination</find>
+      <find>prev_text</find>
+      <find>screen-reader-text</find>
+      <find>icon icon-arrow-right</find>
+      <find>custom_theme_setup</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
     <dirStrings>
-      <dir>C:\xampp\htdocs\aysegul\wp-content\themes\spiral</dir>
       <dir>C:\xampp\htdocs\aysegul\wp-content\themes</dir>
+      <dir>C:\xampp\htdocs\aysegul\wp-content\themes\spiral</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -263,15 +208,28 @@
         <option value="$PROJECT_DIR$/spiritual-medium_dosyalar/index2.html" />
         <option value="$PROJECT_DIR$/theme.css" />
         <option value="$PROJECT_DIR$/index2.html" />
-        <option value="$PROJECT_DIR$/wp-content/themes/spiral/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/spiral/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/page/content-page.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/spiral/style.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/spiral/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/page/content-front-page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/page/content-front-page-panels.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/spiral/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/spiral/page.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/content/content.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/content/content-single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/content/content-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/content/content-excerpt.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/inc/template-tags.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-none.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-excerpt.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/blog.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/sidebar.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/spiral/comments.php" />
       </list>
     </option>
   </component>
@@ -298,11 +256,6 @@
             <path>
               <item name="aysegul" type="b2602c69:ProjectViewProjectNode" />
               <item name="aysegul" type="462c0819:PsiDirectoryNode" />
-              <item name="spiral" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aysegul" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aysegul" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -333,7 +286,22 @@
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="spiral" type="462c0819:PsiDirectoryNode" />
               <item name="template-parts" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="post" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aysegul" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aysegul" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="twentyseventeen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aysegul" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aysegul" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="twentyseventeen" type="462c0819:PsiDirectoryNode" />
+              <item name="template-parts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -345,22 +313,23 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/spiral" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\aysegul\wp-content\themes\spiral" />
+      <recent name="C:\xampp\htdocs\aysegul\wp-content\themes\spiral\template-parts" />
+      <recent name="C:\xampp\htdocs\aysegul\wp-content\themes\spiral\images" />
+      <recent name="C:\xampp\htdocs\aysegul\wp-content\themes" />
+      <recent name="C:\xampp\htdocs\aysegul\wp-content\themes\spiral\assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\aysegul\spiral" />
       <recent name="C:\xampp\htdocs\aysegul\images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\aysegul\wp-content\themes\spiral\images" />
-      <recent name="C:\xampp\htdocs\aysegul\wp-content\themes\spiral\assets" />
-      <recent name="C:\xampp\htdocs\aysegul\wp-content\themes\spiral" />
-      <recent name="C:\xampp\htdocs\aysegul\wp-content\themes" />
-      <recent name="C:\xampp\htdocs\aysegul" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -392,17 +361,26 @@
       <workItem from="1566837429223" duration="3158000" />
       <workItem from="1568114749236" duration="605000" />
       <workItem from="1568376188630" duration="677000" />
-      <workItem from="1568392355735" duration="863000" />
+      <workItem from="1568392355735" duration="14288000" />
     </task>
+    <task id="LOCAL-00001" summary="init.">
+      <created>1568396838404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568396838405</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27230000" />
+    <option name="totallyTimeSpent" value="40655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20682302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18656716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -414,14 +392,14 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.30942184" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.30942184" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.29443255" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,6 +444,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init." />
+    <option name="LAST_COMMIT_MESSAGE" value="init." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/spiral/spiritual-medium_dosyalar/index2.html">
@@ -613,13 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/inc/template-tags.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-settings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
@@ -659,13 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="471" lean-forward="true" selection-start-line="471" selection-end-line="471" />
         </state>
       </provider>
     </entry>
@@ -711,13 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/single.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -725,41 +688,217 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/index.php">
+    <entry file="file://$PROJECT_DIR$/spiral/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="260">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/style.css">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/header.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/content/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/footer/footer-widgets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="934" column="9" selection-start-line="934" selection-start-column="9" selection-end-line="934" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="134" column="9" selection-start-line="134" selection-start-column="9" selection-end-line="134" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/template-parts/content/content-single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/template-parts/content/content-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/template-parts/content/content-excerpt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/template-parts/content/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="13" selection-start-line="13" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/inc/template-tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" column="17" lean-forward="true" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-none.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#6#247#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content-excerpt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <element signature="e#6#302#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="60" lean-forward="true" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        <state relative-caret-position="712">
+          <caret line="63" column="57" selection-start-line="63" selection-start-column="57" selection-end-line="63" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="660">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#6#425#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spiral/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="660">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="38" />
+          <folding>
+            <element signature="e#6#494#0#PHP" expanded="true" />
+            <element signature="e#536#555#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/template-parts/post/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="e#6#216#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/comment-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="2284" column="6" lean-forward="true" selection-start-line="2284" selection-start-column="6" selection-end-line="2284" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/class-wp-bootstrap-comment-walker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="786">
+          <caret line="196" column="24" selection-start-line="196" selection-start-column="24" selection-end-line="196" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/spiral/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#6#345#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#ol#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
